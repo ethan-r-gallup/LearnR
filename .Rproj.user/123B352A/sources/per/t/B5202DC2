@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1648839131001.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "152037952",
+    "id" : "B5202DC2",
+    "lastKnownWriteTime" : 1648841239,
+    "last_content_update" : 1648841239135,
+    "path" : "~/GitHub/LearnR/importing data.R",
+    "project_path" : "importing data.R",
+    "properties" : {
+        "cursorPosition" : "11,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
